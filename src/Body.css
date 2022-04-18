@@ -1,0 +1,21 @@
+img{
+   
+    border-radius: 5px;
+    height: 200px;
+}
+.add{
+    background-color: #070758;
+    width: 56px;
+    color: white;
+    border-radius: 5px;
+    
+}
+.subtract{
+    width: 56px;
+    color: black;
+    border-radius: 5px;
+    
+
+}
+
+
